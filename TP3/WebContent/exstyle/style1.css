@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+body {
+ margin:8px;
+ padding:8px;
+ font-family:sans-serif;
+ background: url(file:///D:/NewEclipsWorkEspace/TP3/WebContent/img/keyboard-690066_960_720.jpg);
+ background-size: cover;
+ 
+}
+.leg{
+ background: rgba(0,0,0,.5);
+ color: #ffffff;
+
+}
+
+.bord{
+ margin-left: 100px;
+ border-color: #ffffff;
+ border-style: solid;
+ border-width: 4px;
+}
+
+.log{
+
+ color: #ffffff;
+}
